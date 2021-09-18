@@ -27,6 +27,20 @@ table{
 tr:nth-child(odd) {
     background-color: #8F9AA5;
 }
+.lordillingworth:hover{
+    text-shadow: 2px 2px 5px yellow;
+    box-shadow: 10px 10px 5px grey;
+    border-bottom: 4px solid red;
+    background-color: white;
+    text-align: center;
+}
+.mrsarbuthnot:hover{
+    text-shadow: 2px 2px 5px red;
+    box-shadow: 10px 10px 5px grey;
+    border-bottom: 4px solid blue;
+    background-color: white;
+    text-align: center;
+}
 .ladyhunstantion{
     font-family: 'Brush Script', cursive;
     font-size: 18px;
@@ -67,5 +81,5 @@ tr:nth-child(odd) {
     font-family: 'Brush Script', cursive;
     font-size: 18px;
     margin: 4px;
-    color: cornflowerblue;
+    color: blue;
 }
