@@ -9,6 +9,10 @@
     background-color: lightyellow;
 
 }
+.stage-direction:hover {
+    background-color: black;
+    color:red;
+}
 .ladyhunstantion{
     font-family: 'Brush Script', cursive;
     font-size: 18px;
@@ -43,8 +47,4 @@
     font-family: 'Brush Script', cursive;
     font-size: 18px;
     color: cornflowerblue;
-}
-.stage-direction:hover {
-    background-color: black;
-    color:red;
 }
