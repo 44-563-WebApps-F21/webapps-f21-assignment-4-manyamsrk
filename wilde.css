@@ -1,0 +1,50 @@
+.speech {
+    font: Helvetica,sans-serif;
+    font-size: 16px;
+    color:black;
+}
+.stage-direction{
+    font-family: Garamond, serif;
+    font-size: 17px;
+    background-color: lightyellow;
+
+}
+.ladyhunstantion{
+    font-family: 'Brush Script', cursive;
+    font-size: 18px;
+    color:lightsalmon;
+}
+.thearchdeacon{
+    font-family: 'Brush Script', cursive;
+    font-size: 18px;
+    color: lightseagreen;
+}
+.gerald{
+    font-family: 'Brush Script', cursive;
+    font-size: 18px;
+    color: lightblue;
+}
+.mrsallonby{
+    font-family: 'Brush Script', cursive;
+    font-size: 18px;
+    color: yellow;
+}
+.lordillingworth{
+    font-family: 'Brush Script', cursive;
+    font-size: 18px;
+    color: red;
+}
+.ladycaroline{
+    font-family: 'Brush Script', cursive;
+    font-size: 18px;
+    color: lime;
+}
+.mrsarbuthnot{
+    font-family: 'Brush Script', cursive;
+    font-size: 18px;
+    color: cornflowerblue;
+}
+.stage-direction:hover {
+    background-color: black;
+    color:red;
+}
