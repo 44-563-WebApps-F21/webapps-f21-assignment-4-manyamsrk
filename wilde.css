@@ -2,11 +2,12 @@
     font: Helvetica,sans-serif;
     font-size: 16px;
     color:black;
+    margin: 10px;
 }
 .stage-direction{
     font-family: Garamond, serif;
     font-size: 17px;
-    background-color: lightyellow;
+    background-color: lightblue;
 
 }
 .stage-direction:hover {
@@ -29,35 +30,42 @@ tr:nth-child(odd) {
 .ladyhunstantion{
     font-family: 'Brush Script', cursive;
     font-size: 18px;
+    margin: 4px;
     color:lightsalmon;
 }
 .thearchdeacon{
     font-family: 'Brush Script', cursive;
     font-size: 18px;
+    margin: 4px;
     color: lightseagreen;
 }
 .gerald{
     font-family: 'Brush Script', cursive;
     font-size: 18px;
+    margin: 4px;
     color: lightblue;
 }
 .mrsallonby{
     font-family: 'Brush Script', cursive;
     font-size: 18px;
+    margin: 4px;
     color: yellow;
 }
 .lordillingworth{
     font-family: 'Brush Script', cursive;
     font-size: 18px;
+    margin: 4px;
     color: red;
 }
 .ladycaroline{
     font-family: 'Brush Script', cursive;
     font-size: 18px;
+    margin: 4px;
     color: lime;
 }
 .mrsarbuthnot{
     font-family: 'Brush Script', cursive;
     font-size: 18px;
+    margin: 4px;
     color: cornflowerblue;
 }
